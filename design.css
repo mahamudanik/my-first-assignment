@@ -1,0 +1,197 @@
+nav ul {
+    display: flex;
+    background-color: gray;
+
+}
+
+nav li {
+    list-style: none;
+    margin-right: 220px;
+    padding: 0 5px;
+    font-size: 20px;
+}
+
+nav li:hover {
+    background-color: lightgray;
+
+}
+
+nav li a {
+    text-decoration: none;
+    color: black;
+}
+
+/* banner css start */
+.back-img {
+
+    background-image: url(./banner/banner1.png);
+    width: 1255px;
+    height: 808px;
+    margin: 0 0;
+    background-repeat: no-repeat;
+
+}
+
+.header-text {
+    text-align: right;
+    margin-right: 30px;
+    font-weight: 700;
+    font-size: 65px;
+    padding-top: 200px;
+    padding-right: 2px;
+}
+
+.banner-p {
+
+    text-align: right;
+    margin-right: 35px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.button{
+margin-left: 1100px;
+color: #FFFFFF;
+
+background: #F15B22;
+border-radius: 5px;
+}
+/* failure section start */
+.person{
+    padding-top: 150px;
+   margin-left: 100px;
+
+
+}
+.failure-parents{
+display: flex;
+}
+
+
+.header-title{
+
+    text-align: right;
+    font-weight: 700;
+    font-size:55px;
+    padding-top: 300px;
+margin-left:100px;
+margin-bottom: 24px;
+}
+.p-description{
+    font-size:small;
+   
+    margin-bottom: 13px;
+}
+ul li{
+
+    font-size: medium;
+margin-bottom: 1em;
+
+}
+/* my plan section start */
+.my-plan{
+    margin-top: 130px;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.plan-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.plan{
+    background: #FFFFFF;
+   
+}
+.plan-title{
+    text-align: center;
+    font-size: 30px;
+}
+.plan-description{
+    font-size: 15px;
+    text-align: center;
+}
+/* gradient section start */
+.watch-section{
+    margin-top: 130px;
+
+}
+.title-style{
+    color: #FFFFFF;
+    font-size: 40px;
+    background: #FFFFFF;
+    background-image:  url(./gradient2.png) ;
+    
+
+    background-repeat: no-repeat;
+    background-position: center;
+
+    align-items: center;
+ padding: 20px 70px;
+
+height: 250px;
+
+    
+
+
+
+}
+.button-style{
+    color: #F15B22;
+    background: #FFFFFF;
+    border-color: #FFFFFF;
+    
+}
+/* footer section css */
+.fotter{
+    margin-top: 130px;
+    padding-left: 230px;
+    display: flex;
+    background-color: black;
+
+}
+.adress-parents{
+    color: #F8F8F8;
+}
+.footer-title{
+
+    font-size: xx-large;
+
+}
+.lorem-des{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.email{
+    color: #FFFFFF;
+    font-size:15px;
+}
+.phone{
+    color: #FFFFFF;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.img2{
+    margin-left:10px;
+}
+.img3{
+    margin-left: 10px;
+}
+.subscribed{
+  font-size: xx-large;
+    color: #F8F8F8;
+    margin-bottom: 10px;
+}
+ .subscribed-parents{ 
+    margin-left: 500px;
+
+   
+}
+.input{
+    margin-bottom: 5px;
+}
+.button-f{
+    color: #F15B22;
+    height: 24px;
+}
+/* the end */
